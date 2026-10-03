@@ -1,0 +1,20 @@
+.lesson{
+     max-width:900px;
+     margin:30px auto;
+     background-color:white;
+     padding:30px;
+     border-radius"10px;
+     line-height:1.7;
+}
+.lesson pre{
+     background:#20232a;
+     color:white;
+     padding:20px;
+     border-radius"8px;
+     overflow-x:auto;
+}
+.output{
+    background-color:#f0f0f0;
+    padding:20px;
+    border:1px solid #ccc;
+}
